@@ -1,0 +1,9 @@
+/Users/Macbook/Personal_Projects/FinancialSite
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=FinancialSite
+--content-root=/Users/Macbook/Personal_Projects/FinancialSite
+--file=/Users/Macbook/Personal_Projects/FinancialSite/Views/Home/Index.cshtml
+--file=/Users/Macbook/Personal_Projects/FinancialSite/Views/Shared/Error.cshtml
+--file=/Users/Macbook/Personal_Projects/FinancialSite/Views/Shared/_Layout.cshtml
+--file=/Users/Macbook/Personal_Projects/FinancialSite/Views/_ViewImports.cshtml
+--file=/Users/Macbook/Personal_Projects/FinancialSite/Views/_ViewStart.cshtml

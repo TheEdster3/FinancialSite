@@ -1,0 +1,12 @@
+/Users/Macbook/Personal_Projects/FinancialSite/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/Macbook/Personal_Projects/FinancialSite/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/Macbook/Personal_Projects/FinancialSite/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/Macbook/Personal_Projects/FinancialSite/bin/Debug/netcoreapp2.0/FinancialSite.deps.json
+/Users/Macbook/Personal_Projects/FinancialSite/bin/Debug/netcoreapp2.0/FinancialSite.runtimeconfig.json
+/Users/Macbook/Personal_Projects/FinancialSite/bin/Debug/netcoreapp2.0/FinancialSite.runtimeconfig.dev.json
+/Users/Macbook/Personal_Projects/FinancialSite/bin/Debug/netcoreapp2.0/FinancialSite.dll
+/Users/Macbook/Personal_Projects/FinancialSite/bin/Debug/netcoreapp2.0/FinancialSite.pdb
+/Users/Macbook/Personal_Projects/FinancialSite/obj/Debug/netcoreapp2.0/FinancialSite.csprojAssemblyReference.cache
+/Users/Macbook/Personal_Projects/FinancialSite/obj/Debug/netcoreapp2.0/FinancialSite.csproj.CoreCompileInputs.cache
+/Users/Macbook/Personal_Projects/FinancialSite/obj/Debug/netcoreapp2.0/FinancialSite.dll
+/Users/Macbook/Personal_Projects/FinancialSite/obj/Debug/netcoreapp2.0/FinancialSite.pdb
